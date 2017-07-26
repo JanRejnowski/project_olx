@@ -101,3 +101,20 @@
     background: #c3c3c3;
     transition: 0.5s;
 }
+
+.footer>div {
+    text-align: center;
+}
+
+.footer {
+    padding: 10px;
+    color: white;
+    background-color: steelblue;
+}
+
+.footer a {
+    color: white;
+}
+.img-responsive{
+    margin: 0 auto;
+}
